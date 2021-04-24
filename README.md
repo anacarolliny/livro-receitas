@@ -1,8 +1,7 @@
-# Livro de receitas :man_cook:
+# Livro de receitas :woman_cook:
 
-Ola bem vindo ao meu livro de receitas :wave:
+Ola bem vindo ao meu primeiro repositório aqui no gitHub
 
-- strogonoff de frango
+estou bastante empolgado com esse projeto, e se você quiser entrar em contato para conversar, caso também seja um novato(a) e tiver dicas, eu agradeceria !
 
-  
-
+:girl: :computer: :coffee:
